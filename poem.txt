@@ -1,4 +1,4 @@
-The rainbow 
+The rainbow and the Unicorn
 
 Violet
 Indigo
@@ -7,7 +7,9 @@ Green
 Yellow
 Orange
 Red
+&
+Unicorn
 
 In short, we call it as VIBGYOR
 
-End of my poem
+End of my poem on Rainbow and Unicorn
