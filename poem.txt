@@ -1,4 +1,4 @@
-The rainbow
+The rainbow 
 
 Violet
 Indigo
@@ -7,5 +7,7 @@ Green
 Yellow
 Orange
 Red
+
+In short, we call it as VIBGYOR
 
 End of my poem
