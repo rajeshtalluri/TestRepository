@@ -9,6 +9,8 @@ Orange
 Red
 &
 Unicorn
+purpule
+pink
 
 In short, we call it as VIBGYOR
 
